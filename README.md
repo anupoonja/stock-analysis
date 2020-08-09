@@ -145,7 +145,7 @@ The explanation given in the assignment and the steps in the code were very clea
 
 
 ## Summary
-Refactoring the VBA code by optimizing logic and avoiding repitition has improved the efficiency and reduced the time taken to analyze the stock performance, from few seconds to fraction of a second. This has enabled the opportunity to expand the project to analyze much larger data in shorter amount of time.
+Refactoring the VBA code by optimizing logic and avoiding repetition has improved the efficiency and reduced the time taken to analyze the stock performance, from few seconds to fraction of a second. This has enabled the opportunity to expand the project to analyze much larger data in shorter amount of time.
 
 ### Advantages of refactoring code
 *	Optimized code with clean solution
