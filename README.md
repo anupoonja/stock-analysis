@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this project was :
+The purpose of this project was:
 * To compare the stock performance between the year 2017 and 2018
 * To refactor the VBA code by optimizing the steps, improving the logic and avoiding repetition
 * To measure the performance of the refactored VBA code in terms of time taken to analyze the data. 
@@ -145,14 +145,20 @@ The explanation given in the assignment and the steps in the code were very clea
 
 
 ## Summary
-Refactoring the VBA code by optimizing logic and avoiding repititative looping has improved the efficiency and reduced the time taken to analyze the stock performance, from few seconds to fraction of a second. This has enabled the opportunity to expand the project to analyze much larger data in shorter amount of time.
+Refactoring the VBA code by optimizing logic and avoiding repitition has improved the efficiency and reduced the time taken to analyze the stock performance, from few seconds to fraction of a second. This has enabled the opportunity to expand the project to analyze much larger data in shorter amount of time.
 
 ### Advantages of refactoring code
-* 
+*	Optimized code with clean solution
+*	Higher efficiency with better execution time
+*	Efficient of memory usage
+
 ### Disadvantages of refactoring code
+*	It takes time and expertise to develop efficient refactored code.
+*	It can be difficult to read (others) refactored code if there are no good explanation/comments.
 
 ### Comparison between original and refactoring code
+* **Original code** is easy to develop, which can be *advantageous* in the beginning to develop idea/prototype.
+* **Original code** can be less efficient, consume more memory and time, making it *disadvantageous* to analyze huge data.
+* **Refactored VBA script** are very efficient and less time consuming to execute, making it *advantageous* to analyze large data in less time.
+* **Refactored VBA script** needs lot of expertise and practice, which can be *disadvantageous* during the initial part of the project.
 
-#### Advantages
-
-#### Disadvantages
